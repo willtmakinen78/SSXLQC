@@ -13,7 +13,9 @@ INSTALLATION:
 	
 		pip install -r requirements.txt
 		
-	This will install all the necessary 3rd-party packages.
+	This will install all the necessary 3rd-party packages
+	test
+	
 	NOTE: an internet connection is required.
 
 	If you would like to install the SSXLQC package under your python distribution, and have access
