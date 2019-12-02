@@ -1,0 +1,1 @@
+Robocopy "path\to\data\location" "path\to\backup\location" /MIR /R:5 /W:15 /V /NP /LOG:Backup.log
